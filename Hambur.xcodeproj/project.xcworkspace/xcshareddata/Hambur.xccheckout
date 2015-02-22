@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7BA77228-F209-45F8-80B0-AFE6B88B8A6A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hambur</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CA039DBA0165FCCAB6D9999F3CCB8620A50855DC</key>
+		<string>https://github.com/akaabe/HamburgerButton.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hambur.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CA039DBA0165FCCAB6D9999F3CCB8620A50855DC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/akaabe/HamburgerButton.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CA039DBA0165FCCAB6D9999F3CCB8620A50855DC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CA039DBA0165FCCAB6D9999F3CCB8620A50855DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HamburgerButton</string>
+		</dict>
+	</array>
+</dict>
+</plist>
