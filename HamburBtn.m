@@ -24,7 +24,7 @@
 
 @implementation HamburBtn
 
-@synthesize medium, upper, shown;
+@synthesize medium, upper, shown, lower;
 
 - (id)initWithCoder:(NSCoder *)aDecoder
 {
